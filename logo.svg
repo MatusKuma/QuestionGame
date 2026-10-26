@@ -1,0 +1,53 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#172744"/>
+      <stop offset="100%" stop-color="#101525"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#53E6C1"/>
+      <stop offset="55%" stop-color="#42A5FF"/>
+      <stop offset="100%" stop-color="#A879FF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Pozadie -->
+  <rect width="128" height="128" rx="30" fill="url(#bg)"/>
+
+  <!-- Jemný vonkajší okraj -->
+  <rect x="1.5" y="1.5" width="125" height="125" rx="28.5"
+        fill="none" stroke="#FFFFFF" stroke-opacity=".09" stroke-width="3"/>
+
+  <!-- Bublina predstavujúca otázku a komunikáciu -->
+  <path d="M64 19
+           C40 19 23 35 23 56
+           C23 70 30 81 42 88
+           L39 103
+           L56 94
+           C59 95 62 95 65 95
+           C88 95 105 79 105 57
+           C105 35 88 19 64 19Z"
+        fill="#202F4B"
+        stroke="url(#accent)"
+        stroke-width="3.5"
+        stroke-linejoin="round"/>
+
+  <!-- Otáznik -->
+  <path d="M48 45
+           C48 35 56 30 65 30
+           C76 30 83 37 83 46
+           C83 53 79 57 72 62
+           C66 66 64 69 64 76"
+        fill="none"
+        stroke="url(#accent)"
+        stroke-width="8"
+        stroke-linecap="round"/>
+
+  <!-- Bod otázniku -->
+  <circle cx="64" cy="85" r="5" fill="#53E6C1"/>
+
+  <!-- Malý symbol objavu -->
+  <path d="M94 21 L96 27 L102 29 L96 31 L94 37 L92 31 L86 29 L92 27 Z"
+        fill="#53E6C1"/>
+</svg>
