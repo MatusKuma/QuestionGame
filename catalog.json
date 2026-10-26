@@ -1,22 +1,184 @@
 {
   "days": [
     {
+      "date": "2026-10-01",
+      "word": "PARÍŽ",
+      "hint": "Mesto známe Eiffelovou vežou.",
+      "question": "Aké je hlavné mesto Francúzska?"
+    },
+    {
+      "date": "2026-10-02",
+      "word": "MARS",
+      "hint": "Planéta prezývaná podľa červenej farby.",
+      "question": "Ktorá planéta sa nazýva červená planéta?"
+    },
+    {
+      "date": "2026-10-03",
+      "word": "VČELA",
+      "hint": "Malý hmyz, ktorý pomáha rastlinám rozmnožovať sa.",
+      "question": "Ktorý hmyz vyrába med a opeľuje kvety?"
+    },
+    {
+      "date": "2026-10-04",
+      "word": "TICHÝ OCEÁN",
+      "hint": "Najväčšia vodná plocha na Zemi.",
+      "question": "Ktorý oceán je najväčší na svete?"
+    },
+    {
+      "date": "2026-10-05",
+      "word": "ALBERT EINSTEIN",
+      "hint": "Slávny fyzik spájaný s teóriou relativity.",
+      "question": "Kto vytvoril teóriu relativity?"
+    },
+    {
+      "date": "2026-10-06",
+      "word": "VLTAVA",
+      "hint": "Rieka, ktorá preteká Prahou.",
+      "question": "Ktorá rieka preteká Prahou?"
+    },
+    {
+      "date": "2026-10-07",
+      "word": "FOTOSYNTÉZA",
+      "hint": "Proces, vďaka ktorému rastliny využívajú slnečné svetlo.",
+      "question": "Ako sa nazýva proces, pri ktorom rastliny premieňajú svetlo na chemickú energiu?"
+    },
+    {
+      "date": "2026-10-08",
+      "word": "JUPITER",
+      "hint": "Najväčšia planéta Slnečnej sústavy.",
+      "question": "Ktorá planéta je najväčšia v Slnečnej sústave?"
+    },
+    {
+      "date": "2026-10-09",
+      "word": "LEONARDO DA VINCI",
+      "hint": "Renesančný umelec, ktorý namaľoval Monu Lisu.",
+      "question": "Kto namaľoval Monu Lisu?"
+    },
+    {
+      "date": "2026-10-10",
+      "word": "VODÍK",
+      "hint": "Najľahší chemický prvok.",
+      "question": "Ktorý chemický prvok má najnižšie protónové číslo?"
+    },
+    {
+      "date": "2026-10-11",
+      "word": "NÍL",
+      "hint": "Dlhá rieka spájaná so starovekým Egyptom.",
+      "question": "Ktorá rieka bola základom života starovekého Egypta?"
+    },
+    {
+      "date": "2026-10-12",
+      "word": "TOKIO",
+      "hint": "Veľkomesto na východe Ázie.",
+      "question": "Aké je hlavné mesto Japonska?"
+    },
+    {
+      "date": "2026-10-13",
+      "word": "SRDCE",
+      "hint": "Orgán, ktorý pumpuje krv do tela.",
+      "question": "Ktorý orgán zabezpečuje krvný obeh tým, že pumpuje krv?"
+    },
+    {
+      "date": "2026-10-14",
+      "word": "EVEREST",
+      "hint": "Najvyšší vrch sveta meraný nad hladinou mora.",
+      "question": "Ako sa volá najvyššia hora sveta?"
+    },
+    {
+      "date": "2026-10-15",
+      "word": "WILLIAM SHAKESPEARE",
+      "hint": "Anglický dramatik, autor Hamleta a Rómea a Júlie.",
+      "question": "Kto napísal tragédiu Hamlet?"
+    },
+    {
+      "date": "2026-10-16",
+      "word": "SATURN",
+      "hint": "Planéta známa výrazným systémom prstencov.",
+      "question": "Ktorá planéta Slnečnej sústavy je známa svojimi prstencami?"
+    },
+    {
+      "date": "2026-10-17",
+      "word": "ANTARKTÍDA",
+      "hint": "Najchladnejší kontinent, pokrytý prevažne ľadom.",
+      "question": "Ktorý kontinent obklopuje južný pól?"
+    },
+    {
+      "date": "2026-10-18",
+      "word": "KOMPAS",
+      "hint": "Pomôcka, ktorá ukazuje svetové strany.",
+      "question": "Ktorý navigačný nástroj ukazuje smer k severu pomocou magnetickej strelky?"
+    },
+    {
+      "date": "2026-10-19",
+      "word": "MOZART",
+      "hint": "Hudobný skladateľ, ktorý už ako dieťa vynikal v hudbe.",
+      "question": "Ktorý skladateľ napísal operu Čarovná flauta?"
+    },
+    {
+      "date": "2026-10-20",
+      "word": "KYJEV",
+      "hint": "Hlavné mesto krajiny, ktorá susedí so Slovenskom na východe.",
+      "question": "Aké je hlavné mesto Ukrajiny?"
+    },
+    {
+      "date": "2026-10-21",
+      "word": "DIAMANT",
+      "hint": "Veľmi tvrdý drahokam zložený z uhlíka.",
+      "question": "Ktorý prírodný minerál je najtvrdší podľa Mohsovej stupnice?"
+    },
+    {
+      "date": "2026-10-22",
+      "word": "AMAZONKA",
+      "hint": "Obrovská rieka v Južnej Amerike.",
+      "question": "Ktorá rieka má podľa objemu vody najväčší prietok na svete?"
+    },
+    {
+      "date": "2026-10-23",
+      "word": "PULZ",
+      "hint": "Rytmické vlnenie tepien spôsobené činnosťou srdca.",
+      "question": "Čo si meriame na zápästí, aby sme zistili frekvenciu srdca?"
+    },
+    {
+      "date": "2026-10-24",
+      "word": "OLYMPIJSKÉ HRY",
+      "hint": "Veľké medzinárodné športové podujatie, ktoré sa koná v letnej a zimnej verzii.",
+      "question": "Ako sa nazýva medzinárodné športové podujatie, na ktorom športovci súťažia za svoje krajiny?"
+    },
+    {
+      "date": "2026-10-25",
+      "word": "KARLŮV MOST",
+      "hint": "Historický kamenný most v českom hlavnom meste.",
+      "question": "Ako sa volá známy historický most cez Vltavu v Prahe?"
+    },
+    {
       "date": "2026-10-26",
       "word": "BRATISLAVA",
-      "hint": "Mesto na Dunaji.",
+      "hint": "Hlavné mesto Slovenska ležiace na Dunaji.",
       "question": "Aké je hlavné mesto Slovenska?"
     },
     {
       "date": "2026-10-27",
       "word": "OCEÁN",
-      "hint": "Je väčší než more.",
+      "hint": "Rozsiahla slaná vodná plocha pokrývajúca väčšinu povrchu Zeme.",
       "question": "Aká rozsiahla vodná plocha pokrýva väčšinu zemského povrchu?"
     },
     {
       "date": "2026-10-28",
-      "word": "VČELA",
-      "hint": "Je dôležitá pre opeľovanie rastlín.",
-      "question": "Ktorý hmyz vyrába med?"
+      "word": "MED",
+      "hint": "Sladká potravina, ktorú vyrábajú včely z nektáru.",
+      "question": "Čo vyrábajú včely z nektáru kvetov?"
+    },
+    {
+      "date": "2026-10-29",
+      "word": "GUTENBERG",
+      "hint": "Vynálezca spájaný s rozšírením kníhtlače v Európe.",
+      "question": "Kto je známy tým, že v Európe zdokonalil kníhtlač pomocou pohyblivých liter?"
+    },
+    {
+      "date": "2026-10-30",
+      "word": "VENUŠA",
+      "hint": "Planéta, ktorá je často najjasnejším objektom na oblohe po Slnku a Mesiaci.",
+      "question": "Ktorá planéta je známa ako Večernica alebo Zornička?"
     }
   ]
 }
