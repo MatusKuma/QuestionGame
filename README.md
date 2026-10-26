@@ -1,7 +1,7 @@
 # Slovohra — denná hra s otázkami
 
 ## Ako to funguje
-Hráč vidí slovo a nápovedu. Napíše otázku, o ktorej si myslí, že jej odpoveďou je zobrazené slovo. Hra porovná význam jeho otázky so skrytou otázkou pomocou viacjazyčného embedding modelu spusteného v prehliadači.
+Hráč vidí slovo a nápovedu si môže zobraziť iba vtedy, keď chce. Napíše otázku, o ktorej si myslí, že jej odpoveďou je zobrazené slovo. Hra porovná význam jeho otázky so skrytou otázkou pomocou viacjazyčného embedding modelu spusteného v prehliadači.
 
 ## Pridávanie nových dní
 Uprav iba `catalog.json`. Do poľa `days` pridaj ľubovoľný počet objektov:
@@ -37,7 +37,7 @@ Nepoužívaj priame otvorenie `index.html` cez `file://`, pretože prehliadač m
 Nahraj `index.html` a `catalog.json` do GitHub repozitára a zapni GitHub Pages. Model sa sťahuje z verejného CDN pri prvom použití a potom ho prehliadač môže uložiť do cache.
 
 ## Limity prototypu
-- Skóre je hrubý odhad sémantickej podobnosti, nie presná kontrola správnosti.
+- Skóre je hrubý odhad sémantickej podobnosti, nie presná kontrola správnosti. Diakritika sa pred porovnaním odstráni, takže rozdiely ako „hlavné“ a „hlavne“ nebudú mať vplyv len kvôli diakritike.
 - Bez backendu je tajná otázka viditeľná v `catalog.json` a zdrojovom kóde; vhodné na prototyp a testovanie, nie na súťaž s odmenami.
 - Pokusy sa ukladajú len lokálne v konkrétnom prehliadači.
 - Na prvé spustenie treba internet na stiahnutie modelu a knižnice. Následné vyhodnocovanie prebieha lokálne.
