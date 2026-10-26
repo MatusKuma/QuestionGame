@@ -1,6 +1,7 @@
 
-[
-  {
+{
+  "days": [
+    {
     "date": "2026-10-05",
     "word": "BRATISLAVA",
     "hint": "Veľkosť mesta.",
@@ -157,3 +158,5 @@
     "question": "Aký štát má Vlajku ktorá má žltú a bielu?"
   }
 ]
+}
+  
