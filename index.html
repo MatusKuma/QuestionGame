@@ -91,6 +91,55 @@
       letter-spacing: .08em;
       text-transform: uppercase
     }
+    
+.other-game {
+  display: flex;
+  justify-content: center;
+  padding: 0 20px 30px;
+}
+
+.other-game-link {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  max-width: 360px;
+  padding: 14px 18px;
+  color: inherit;
+  text-decoration: none;
+  background: var(--panel, #fff);
+  border: 1px solid var(--border, #e5e7eb);
+  border-radius: 16px;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.other-game-link:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent, #888);
+}
+
+.other-game-logo {
+  width: 52px;
+  height: 52px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.other-game-link strong,
+.other-game-link small {
+  display: block;
+}
+
+.other-game-link strong {
+  font-size: 1rem;
+  margin-bottom: 4px;
+}
+
+.other-game-link small {
+  opacity: 0.7;
+  font-size: 0.85rem;
+}
+
 
     .hero {
       text-align: center;
